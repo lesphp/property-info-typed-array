@@ -13,9 +13,9 @@ composer require lesphp/property-info-typed-array
 
 ## Compatibility
 
-| symfony/property-info | les/property-info-typed-array |
-|-----------------------|-------------------------------|
-| 6.x                   | 6.x                           |
+| symfony/property-info | lesphp/property-info-typed-array |
+|-----------------------|----------------------------------|
+| 6.x                   | 6.x                              |
 
 ## Usage
 
